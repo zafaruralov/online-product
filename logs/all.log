@@ -1,0 +1,12 @@
+2022-05-13 11:56:19:5619 [35mhttp[39m: [35mPOST /user/register 404 - 1.851 ms[39m
+[35m[39m
+2022-05-13 11:56:35:5635 [31merror[39m: [31mnull value in column "type" of relation "users" violates not-null constraint[39m
+2022-05-13 11:56:35:5635 [35mhttp[39m: [35mPOST /users/register 500 - 129.755 ms[39m
+[35m[39m
+2022-05-13 11:57:08:578 [35mhttp[39m: [35mPOST /users/register 200 - 217.188 ms[39m
+[35m[39m
+2022-05-13 11:57:37:5737 [32minfo[39m: [32mProducts length 0[39m
+2022-05-13 11:57:37:5737 [35mhttp[39m: [35mGET /products 200 - 171.519 ms[39m
+[35m[39m
+2022-05-13 11:57:42:5742 [35mhttp[39m: [35mPOST /products 201 - 8.904 ms[39m
+[35m[39m
